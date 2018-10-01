@@ -5,3 +5,5 @@ The VI will say if it is too high, too low, or correct.
 Depending on the result, the LED will change colors to red, yellow, or green, respectively.
 The user can either play again or end the game.
 The VI will ask the user where to save the results. The Final Project Read VI can read the results.
+
+**Skills: LabVIEW**
